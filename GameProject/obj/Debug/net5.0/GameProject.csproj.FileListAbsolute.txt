@@ -1,0 +1,16 @@
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\bin\Debug\net5.0\GameProject.exe
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\bin\Debug\net5.0\GameProject.deps.json
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\bin\Debug\net5.0\GameProject.runtimeconfig.json
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\bin\Debug\net5.0\GameProject.runtimeconfig.dev.json
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\bin\Debug\net5.0\GameProject.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\bin\Debug\net5.0\ref\GameProject.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\bin\Debug\net5.0\GameProject.pdb
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.AssemblyInfo.cs
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\ref\GameProject.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.pdb
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\GameProject\obj\Debug\net5.0\GameProject.genruntimeconfig.cache

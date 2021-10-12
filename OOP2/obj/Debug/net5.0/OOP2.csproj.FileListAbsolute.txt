@@ -1,0 +1,16 @@
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\bin\Debug\net5.0\OOP2.exe
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\bin\Debug\net5.0\OOP2.deps.json
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.json
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\bin\Debug\net5.0\OOP2.runtimeconfig.dev.json
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\bin\Debug\net5.0\OOP2.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\bin\Debug\net5.0\ref\OOP2.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\bin\Debug\net5.0\OOP2.pdb
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.AssemblyInfo.cs
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\ref\OOP2.dll
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.pdb
+C:\Users\90553\source\repos\kodlamaio_bootcamp\Lectures\OOP2\obj\Debug\net5.0\OOP2.genruntimeconfig.cache
